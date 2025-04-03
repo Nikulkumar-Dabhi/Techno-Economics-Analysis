@@ -6,6 +6,9 @@ ocean-alkalinity-enhancement-research-project
 This repository highlights the published research conducted as part of a feasibility study on implementing a full-scale plant for ocean alkalinity enhancement. The research explores the engineering design, environmental impact, and economic viability of deploying alkalinity enhancement technologies in marine environments.
 
 📄 **Research Paper Link**:  
+
+[https://pubs.acs.org/doi/10.1021/acs.iecr.4c04364]
+
 [View on ResearchGate](https://www.researchgate.net/publication/385071083_A_feasibility_study_of_a_full-scale_plant_for_ocean_alkalinity_enhancement)
 
 🔒 **Note**: The underlying data and models used in this study are confidential and cannot be shared. However, a high-level summary and visual aids have been provided in this repository.
